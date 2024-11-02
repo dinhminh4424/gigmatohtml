@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  /* 1 rem = 10px */
+  font-size: 62.5%;
+}
+
+/* khôi phục lại cỡ chữ ban đầu */
+body {
+  font-size: 1.6rem;
+}
